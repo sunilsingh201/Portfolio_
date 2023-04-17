@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sunilsingh201/Portfolio_/static/css/main.ff7d7159.css",
-    "main.js": "/sunilsingh201/Portfolio_/static/js/main.47578914.js",
-    "static/js/787.1ed0c42c.chunk.js": "/sunilsingh201/Portfolio_/static/js/787.1ed0c42c.chunk.js",
-    "static/media/39998-web-development.gif": "/sunilsingh201/Portfolio_/static/media/39998-web-development.964793e1d0d0b2061df5.gif",
-    "static/media/project1.svg": "/sunilsingh201/Portfolio_/static/media/project1.1d8cddea0b801d3013449345292afe12.svg",
-    "static/media/piroo.png": "/sunilsingh201/Portfolio_/static/media/piroo.f91b27af9e191520cac5.png",
-    "static/media/web-design.png": "/sunilsingh201/Portfolio_/static/media/web-design.f721d6300da36dde4a81.png",
-    "static/media/ui-design.png": "/sunilsingh201/Portfolio_/static/media/ui-design.aa8344dbaaa99b38e445.png",
-    "static/media/seo.png": "/sunilsingh201/Portfolio_/static/media/seo.a7b267cdfd342dc9e0b3.png",
-    "static/media/web-dev.png": "/sunilsingh201/Portfolio_/static/media/web-dev.f9558c1aa5813acf2942.png",
-    "static/media/Logo_iqacwhite.svg": "/sunilsingh201/Portfolio_/static/media/Logo_iqacwhite.18d8d1569039c1ae24800b9f4e80b98d.svg",
-    "static/media/photoshop.png": "/sunilsingh201/Portfolio_/static/media/photoshop.f74ad655e5a6bbf14532.png",
-    "static/media/web-host.png": "/sunilsingh201/Portfolio_/static/media/web-host.b40e3eaba65d5f607e0e.png",
-    "index.html": "/sunilsingh201/Portfolio_/index.html",
-    "main.ff7d7159.css.map": "/sunilsingh201/Portfolio_/static/css/main.ff7d7159.css.map",
-    "main.47578914.js.map": "/sunilsingh201/Portfolio_/static/js/main.47578914.js.map",
-    "787.1ed0c42c.chunk.js.map": "/sunilsingh201/Portfolio_/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio_/static/css/main.ff7d7159.css",
+    "main.js": "/Portfolio_/static/js/main.3727952e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio_/static/js/787.1ed0c42c.chunk.js",
+    "static/media/39998-web-development.gif": "/Portfolio_/static/media/39998-web-development.964793e1d0d0b2061df5.gif",
+    "static/media/project1.svg": "/Portfolio_/static/media/project1.1d8cddea0b801d3013449345292afe12.svg",
+    "static/media/piroo.png": "/Portfolio_/static/media/piroo.f91b27af9e191520cac5.png",
+    "static/media/web-design.png": "/Portfolio_/static/media/web-design.f721d6300da36dde4a81.png",
+    "static/media/ui-design.png": "/Portfolio_/static/media/ui-design.aa8344dbaaa99b38e445.png",
+    "static/media/seo.png": "/Portfolio_/static/media/seo.a7b267cdfd342dc9e0b3.png",
+    "static/media/web-dev.png": "/Portfolio_/static/media/web-dev.f9558c1aa5813acf2942.png",
+    "static/media/Logo_iqacwhite.svg": "/Portfolio_/static/media/Logo_iqacwhite.18d8d1569039c1ae24800b9f4e80b98d.svg",
+    "static/media/photoshop.png": "/Portfolio_/static/media/photoshop.f74ad655e5a6bbf14532.png",
+    "static/media/web-host.png": "/Portfolio_/static/media/web-host.b40e3eaba65d5f607e0e.png",
+    "index.html": "/Portfolio_/index.html",
+    "main.ff7d7159.css.map": "/Portfolio_/static/css/main.ff7d7159.css.map",
+    "main.3727952e.js.map": "/Portfolio_/static/js/main.3727952e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio_/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff7d7159.css",
-    "static/js/main.47578914.js"
+    "static/js/main.3727952e.js"
   ]
 }
